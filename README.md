@@ -1,5 +1,7 @@
-<p align="left">--- computer engineering at chulalongkorn university</p> 
+<p align="left">--- junior 3rd computer engineering</p>
+# 
 <p align="center"><img width="35%" src="./name-logo.svg" /></p>
+# 
 <p align="right">chatree kurupakorn ---</p>
 
 **`Digital/Process Craftsman (Developer/Designer)`**
@@ -7,6 +9,12 @@
 I'm an free-style software developer building my digital world from my boundless creative and personal process. I'm making my thinking like a palette with main colors and my brain like a paintbrush and my mind like a not full glass. i will use them to drive my current project or in the future project which are built from the ground up, from planning researching designing and implementing all the way to solving real-life problems with code.
 
 --- 
+
+### Education 
+<img align="left" alt="Chula" width="60px" style="padding-right:10px;" src="./chula-logo.png"/>
+
+#
+
 
 ### Languages and Tools 
 
