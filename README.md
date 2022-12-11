@@ -1,6 +1,7 @@
 <p align="left" style="bold">--- computer engineering</p> 
-![name-logo](https://github.com/chatreeck7/chatreeck7/blob/main/name-logo.svg?raw=true)
-<p align="right">chatree kurupakorn ---</p>
+![name-logo](https://user-images.githubusercontent.com/89622162/206923139-ac83e271-bb82-4e74-908c-7f8dc4466487.svg)
+<p align="right">c
+hatree kurupakorn ---</p>
 
 **`Digital/Process Craftsman (Developer/Designer)`**
 
