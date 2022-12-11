@@ -1,5 +1,5 @@
 <p align="left" style="bold">--- computer engineering</p> 
-![name-logo](https://github.com/chatreeck7/chatreeck7/blob/main/name-logo.svg?raw=true)
+<p align="center"><img width="80%" src="./name-logo.svg" /></p>
 <p align="right">chatree kurupakorn ---</p>
 
 **`Digital/Process Craftsman (Developer/Designer)`**
