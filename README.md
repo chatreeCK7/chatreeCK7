@@ -4,7 +4,7 @@
 
 **`Digital/Process Craftsman (Developer/Designer)`**
 
-I'm an free-style software developer building my digital world from my boundless creative and personal process. I'm making my thinking like a palette with main colors and my brain like a paintbrush and my mind like a not full glass. All They will make my current project or in the future project are built from the ground up, from planning researching designing and implementing all the way to solving real-life problems with code.
+I'm an free-style software developer building my digital world from my boundless creative and personal process. I'm making my thinking like a palette with main colors and my brain like a paintbrush and my mind like a not full glass. i will use them to drive my current project or in the future project which are built from the ground up, from planning researching designing and implementing all the way to solving real-life problems with code.
 
 --- 
 
