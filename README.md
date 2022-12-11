@@ -1,5 +1,5 @@
 <p align="left" style="bold">--- computer engineering</p> 
-<p align="center"><img width="60%" src="./name-logo.svg" /></p>
+<p align="center"><img width="35%" src="./name-logo.svg" /></p>
 <p align="right">c
 hatree kurupakorn ---</p>
 
