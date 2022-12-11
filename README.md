@@ -1,7 +1,7 @@
 <p align="left">--- junior 3rd computer engineering</p>
-# 
+<br />
 <p align="center"><img width="35%" src="./name-logo.svg" /></p>
-# 
+<br />
 <p align="right">chatree kurupakorn ---</p>
 
 **`Digital/Process Craftsman (Developer/Designer)`**
@@ -11,7 +11,8 @@ I'm an free-style software developer building my digital world from my boundless
 --- 
 
 ### Education 
-<img align="left" alt="Chula" width="60px" style="padding-right:10px;" src="./chula-logo.png"/>
+<img align="left" alt="Chula" width="120px" style="padding-right:10px;" src="./chula-logo.png"/>
+<br />
 
 #
 
