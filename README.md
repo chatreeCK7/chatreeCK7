@@ -1,4 +1,6 @@
-<p align="left">greeting..</p> #CTK <p align="right"> chatree kurupakorn </p>
+<p align="left" style="bold">-- computer engineering</p> 
+
+<p align="right">chatree kurupakorn ---</p>
 
 **`Digital/Process Craftsman (Developer/Designer)`**
 
