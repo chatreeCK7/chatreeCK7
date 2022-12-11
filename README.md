@@ -1,6 +1,4 @@
-<p align="left">greeting..</p> 
-# CTK 
-<p align="right"> chatree kurupakorn </p>
+<p align="left">greeting..</p> #CTK <p align="right"> chatree kurupakorn </p>
 
 **`Digital/Lifestyle Craftsman (Developer/Desginer)`**
 
