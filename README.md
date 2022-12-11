@@ -1,4 +1,4 @@
-<p align="left" style="bold">--- computer engineering</p> 
+<p align="left">--- computer engineering</p> 
 <p align="center"><img width="35%" src="./name-logo.svg" /></p>
 <p align="right">chatree kurupakorn ---</p>
 
