@@ -1,8 +1,8 @@
-<p align="left">--- junior 3rd computer engineering</p>
+<p align="left">ー　Greeting from Chatree Kurupakorn 👋🏻</p>
 <br />
 <p align="center"><img width="35%" src="./name-logo.svg" /></p>
 <br />
-<p align="right">chatree kurupakorn ---</p>
+<p align="right">Senior 4th computer engineering 👨🏻‍💻　ー</p>
 
 **`Digital/Process Craftsman (Developer/Designer)`**
 
